@@ -1,0 +1,3 @@
+# Readme
+
+The files [dont\_patronize\_me.py](dont_patronize_me.py) and [evaluation.py](evaluation.py) are directly taken from [dontpatronizeme-Github page](https://github.com/Perez-AlmendrosC/dontpatronizeme). Modified code specifically tailored to our needs can be found in similar named files prefixed with 'ext'. In [ext\_dont\_patronize\_me.py](ext_dont_patronize_me.py) we removed functions concerning task 1 and added functionality to read train and test sets from csv files, which we will create during train-test-splitting.
