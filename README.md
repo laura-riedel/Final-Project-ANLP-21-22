@@ -3,6 +3,8 @@
 
 This repository contains the final project for the course "Advanced Natural Language Processing" during the winter semester of 2021/2022 at the University of Potsdam by Lara Pfennigschmidt, Laura Riedel and Antonia Schmidt.
 
+It was originally worked on using University of Potsdam's own GitLab platform "Git.UP" transferred to GitHub after the project's conclusion. Therefore, our individual contributions to this project cannot be traced by this repository's commit history.
+
 ## Patronizing and Condescending Language Detection
 
 As our project we chose the SemEval 2022 Task 4, Subtask 2, which addresses the topic of Patronizing and Condescending Language (PCL) Detection as a multi-class classification problem. For more details regarding the subtask see the links below.
@@ -23,8 +25,8 @@ Our source code.
 Note that we cannot include the data set we worked with in this public repository since the data set is provided upon request to the authors only. If you want to use our code in the way we did with the partial dataset provided to us as part of the SemEval Task 2022, please request access directly from the authors via a link provided on their [SemEval GitHub page](https://github.com/Perez-AlmendrosC/dontpatronizeme "dontpatronizeme SemEval 2022").
 
 - data: Contains objects created in our Jupyter Notebooks like embedding matrices, predictions etc. When running `Data Prepocessing` that notebook also creates cleaned data, train/test split etc in this folder.
-	- dontpatronizeme_v1.4: This is where we kept Pérez-Almendros et al.'s (2020) Don't Patronize Me! dataset (vers. 1.4), made available to us after contacting the authors. For reasons explained above it is now empty, but kept as an indication of our original repo structure.
-  - `data_exploration.Rmd`: Contains some initial data exploration using R.
+ 	- `data_exploration.Rmd`: Contains some initial data exploration using R.
+	- This is also where we kept Pérez-Almendros et al.'s (2020) Don't Patronize Me! dataset (in a folder titled "dontpatronizeme_v1.4"), made available to us after contacting the authors. For reasons explained above it is not included here.
 
 - dontpatronizeme: Contains code files directly taken from https://github.com/Perez-AlmendrosC/dontpatronizeme as well as files where we modified their code to fit our needs better.
 - `0. Data Preprocessing`: Jupyter Notebook containing first corpus explorations and our data preprocessing.
