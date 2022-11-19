@@ -7,7 +7,7 @@ It was originally worked on using University of Potsdam's own GitLab platform "G
 
 ## Patronizing and Condescending Language Detection
 
-As our project we chose the SemEval 2022 Task 4, Subtask 2, which addresses the topic of Patronizing and Condescending Language (PCL) Detection as a multi-class classification problem. For more details regarding the subtask see the links below.
+As our project we chose the SemEval 2022 Task 4, Subtask 2, which addresses the topic of Patronizing and Condescending Language (PCL) Detection as a multi-class classification problem. For more details regarding the subtask see the links below. Our project is heavily based on [Pérez-Almendros et al.'s (2020)](https://aclanthology.org/2020.coling-main.518/).
 
 
 # Project Subtask Description
@@ -35,6 +35,8 @@ Note that we cannot include the data set we worked with in this public repositor
 - `3. Random Baseline`: Jupyter Notebook containing a random baseline to compare to our results.
 - `4. Analysis`: Jupyter Notebook containing some analysis of the data and the prediction results
 - `embedding_functions`: Python file containing outsourced "helper" functions for dealing with GoogleNews embeddings.
+
+# Contributions
 
 # Requirements/what we have been working with
 - scikit-learn, version 1.0.2
