@@ -27,11 +27,11 @@ Note that we cannot include the data set we worked with in this public repositor
   - `data_exploration.Rmd`: Contains some initial data exploration using R.
 
 - dontpatronizeme: Contains code files directly taken from https://github.com/Perez-AlmendrosC/dontpatronizeme as well as files where we modified their code to fit our needs better.
-- 0. `Data Preprocessing`: Jupyter Notebook containing first corpus explorations and our data preprocessing.
-- 1. `Logistic Regression`: Jupyter Notebook containing our Logistic Regression approach to PCL classification.
-- 2. `Bi-LSTM`: Jupyter Notebook containing our BiLSTM approach to PCL classification.
-- 3. `Random Baseline`: Jupyter Notebook containing a random baseline to compare to our results.
-- 4. `Analysis`: Jupyter Notebook containing some analysis of the data and the prediction results
+- `0. Data Preprocessing`: Jupyter Notebook containing first corpus explorations and our data preprocessing.
+- `1. Logistic Regression`: Jupyter Notebook containing our Logistic Regression approach to PCL classification.
+- `2. Bi-LSTM`: Jupyter Notebook containing our BiLSTM approach to PCL classification.
+- `3. Random Baseline`: Jupyter Notebook containing a random baseline to compare to our results.
+- `4. Analysis`: Jupyter Notebook containing some analysis of the data and the prediction results
 - `embedding_functions`: Python file containing outsourced "helper" functions for dealing with GoogleNews embeddings.
 
 # Requirements/what we have been working with
