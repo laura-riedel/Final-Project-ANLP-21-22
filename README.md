@@ -1,7 +1,7 @@
 # Final Project ANLP 21-22
 
 
-This repository contains the final project for the course "Advanced Natural Language Processing" during the winter semester of 2021/2022 at the University of Potsdam by Lara Pfennigschmidt, Laura Riedel and Antonia Schmidt.
+This repository contains the final project for the course "Advanced Natural Language Processing" during the winter semester of 2021/2022 at the University of Potsdam by [Lara Pfennigschmidt](https://github.com/lpfennigschmidt), [Laura Riedel](https://github.com/laura-riedel) and [Antonia Schmidt](https://github.com/Antonia-Schmidt).
 
 It was originally worked on using University of Potsdam's own GitLab platform "Git.UP" and only transferred to GitHub after the project's conclusion. Therefore, our individual contributions to this project cannot be traced by this repository's commit history. For more details on our individual contributions please check out the corresponding section below.
 
