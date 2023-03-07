@@ -42,7 +42,7 @@ Note that we cannot include the data set we worked with in this public repositor
 - `2. Bi-LSTM.ipynb`: Laura, Antonia
 - `3. Random Baseline.ipynb`: Laura
 - `4. Analysis.ipynb`: Lara, Laura, Antonia
-- `embedding_functions.ipynb`: Laura, Antonia
+- `embedding_functions.py`: Laura, Antonia
 - `data_exploration.Rmd`: Antonia
 
 # Requirements/what we have been working with
