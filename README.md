@@ -37,6 +37,13 @@ Note that we cannot include the data set we worked with in this public repositor
 - `embedding_functions`: Python file containing outsourced "helper" functions for dealing with GoogleNews embeddings.
 
 # Contributions
+- `0. Data Preprocessing.ipynb`: Lara, Laura, Antonia
+- `1. Logistic Regression.ipynb`: Lara
+- `2. Bi-LSTM.ipynb`: Laura, Antonia
+- `3. Random Baseline.ipynb`: Laura
+- `4. Analysis.ipynb`: Lara, Laura, Antonia
+- `embedding_functions.ipynb`: Laura, Antonia
+- `data_exploration.Rmd`: Antonia
 
 # Requirements/what we have been working with
 - scikit-learn, version 1.0.2
